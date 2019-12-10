@@ -1,0 +1,23 @@
+body, html {
+    height: 100%;
+    font-family: 'Raleway', sans-serif;
+}
+.img-bg {
+    background-image: url("../images/signup-img.jpg");
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#logo-frontpg {
+    color: $primary-color;
+    text-align: center;
+    padding-top: 5%;
+    font-family: 'Mountains of Christmas', cursive;
+}
+#logo {
+    color: $primary-color;
+    margin: 1%;
+    font-family: 'Mountains of Christmas', cursive;
+}
+

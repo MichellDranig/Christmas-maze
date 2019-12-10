@@ -1,0 +1,21 @@
+.img-bg-maze-one {
+    background-image: url("../images/mazeOneImg.jpg");
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#canvas {
+border: 3px solid black;
+}
+.point {
+color: $primary-color;
+}
+.desc {
+margin-top: 2%;
+}
+.content-desc {
+text-align: center;
+color: $primary-color;
+font-size: 1.3em;
+font-weight: 500;
+}

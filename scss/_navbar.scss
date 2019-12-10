@@ -1,0 +1,18 @@
+.navbar {
+    background-color: white;
+}
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+}
+.menu-link a {
+    color: black;
+    font-size: 1.3em;
+}
+.menu-link a:hover {
+    color: $primary-color;
+}
+.active a {
+    color: $primary-color;
+}
+

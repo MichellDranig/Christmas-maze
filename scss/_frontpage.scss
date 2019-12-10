@@ -1,0 +1,28 @@
+.signup {
+    display: flex;
+    justify-content: space-around;
+}
+.user-box {
+    background-color: $primary-color;
+    text-align: center;
+    color: white;
+    margin-top: 2%;
+    border-radius: 5%;
+}
+.header {
+    color: white;
+    margin-top: 2%;
+}
+.user {
+    text-align: left;
+    margin-left: 1%;
+    font-size: 1.2em;
+    color: white;
+}
+.passwordform {
+    margin-top: 3%;
+}
+.myButton {
+    margin: 5%;
+    font-size: 1.4em;
+}
