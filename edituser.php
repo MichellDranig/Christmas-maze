@@ -36,7 +36,6 @@ if(isset($_POST['submit-user'])){
     <h1 id="logo">Julemandens værksted</h1>
         <div class="navbar-nav">
             <a class="nav-item nav-link active" href="maze.php">Maze</a>
-            <a class="nav-item nav-link" href="highscores.php">Highscores</a>
             <a class="nav-item nav-link" href="userinfo.php">User</a>
             <a class="nav-item nav-link" href="logout.php">Log out</a>
         </div>

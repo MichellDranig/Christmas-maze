@@ -1,8 +1,8 @@
 <?php 
-$servername = "localhost"; //dranigdesign.com.mysql
-$username = "root"; //dranigdesign_com
-$password = "root"; //xpp56gpj
-$db = "christmas-games"; // dranigdesign_com
+$servername = "localhost"; 
+$username = "root"; 
+$password = "root"; 
+$db = "christmas-games"; 
 
 //create connection 
 $conn = mysqli_connect($servername, $username, $password, $db);
